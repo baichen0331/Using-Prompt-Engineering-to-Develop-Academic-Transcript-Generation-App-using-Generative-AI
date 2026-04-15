@@ -1,0 +1,15 @@
+fastapi
+instructor
+openai
+pandas
+pdfplumber
+PyJWT
+pypdfium2
+pydantic
+pytesseract
+python-dotenv
+python-multipart
+reportlab
+requests
+streamlit
+uvicorn

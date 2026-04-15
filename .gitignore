@@ -1,0 +1,16 @@
+.env
+.idea/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
+.venv/
+venv/
+tests_runtime/
+test_users*.db
+*.broken_*
+*_rebuilt.py
+*_auth.py
+*_auth_ocr.py
+*_v4.py
+start_new.bat

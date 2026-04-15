@@ -1,0 +1,9 @@
+[project]
+name = "academic-transcript-app"
+version = "0.1.0"
+description = "AI-assisted academic transcript extraction, review, OCR preview, and PDF export."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
